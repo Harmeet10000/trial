@@ -36,7 +36,7 @@
 ![picture alt](/home/niti/Desktop/harmeet_code "Markdown Cheatsheet3")
 
 
-[Name Link](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md#TOP "Markdown Cheatsheet title")
+[Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md#TOP "Markdown Cheatsheet title")
 
 
 
